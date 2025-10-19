@@ -128,8 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👤 Author
 Samson Oluwadare
 
-GitHub: @yourusername
-Email: your.email@example.com
 
 Acknowledgments
 
